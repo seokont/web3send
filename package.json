@@ -1,0 +1,14 @@
+{
+  "name": "web3-send-tx",
+  "version": "1.0.0",
+  "description": "CLI-скрипт для відправки нативних монет або ERC-20 токенів у мережах EVM",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "send": "node src/send.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.0"
+  }
+}
