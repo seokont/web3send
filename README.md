@@ -4,8 +4,6 @@
 
 Клон/ініціалізація проєкту
 
-git clone https://github.com/your-username/web3-send-tx.git
-
 # або створіть папку і скопіюйте файли
 
 cd web3-send-tx
